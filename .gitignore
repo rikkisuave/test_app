@@ -1,6 +1,4 @@
-*.pyc 
-
-settings.py 
+*.pyc
+settings.py
 testig1.txt
-
-*.json 
+*.json
